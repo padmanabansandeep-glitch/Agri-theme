@@ -1,0 +1,61 @@
+{
+  "_notice": "DEMO DATA: Curated government schemes database matched by state and land size.",
+  "dataset_tag": "DEMO DATA",
+  "schemes": [
+    {
+      "id": "pm_kisan",
+      "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+      "tamil_name": "பிரதமர் கிசான் சம்மான் நிதி",
+      "hindi_name": "पीएम-किसान सम्मान निधि",
+      "benefit": "₹6,000 / year in three equal installments of ₹2,000",
+      "eligibility": "All landholding farmer families with cultivable land",
+      "category": "Income Support",
+      "application_link": "https://pmkisan.gov.in",
+      "verified_date": "2024-06-01"
+    },
+    {
+      "id": "pmfby",
+      "name": "PMFBY (Pradhan Mantri Fasal Bima Yojana)",
+      "tamil_name": "பிரதமர் பயிர் காப்பீட்டுத் திட்டம்",
+      "hindi_name": "प्रधानमंत्री फसल बीमा योजना",
+      "benefit": "Comprehensive crop loss coverage against non-preventable natural risks at 1.5% - 2% premium",
+      "eligibility": "All farmers growing notified crops in notified areas",
+      "category": "Crop Insurance",
+      "application_link": "https://pmfby.gov.in",
+      "verified_date": "2024-06-01"
+    },
+    {
+      "id": "soil_health_card",
+      "name": "Soil Health Card Scheme",
+      "tamil_name": "மண் வள அட்டை திட்டம்",
+      "hindi_name": "मृदा स्वास्थ्य कार्ड योजना",
+      "benefit": "Free 12-parameter soil testing & customized dosage recommendation for macro/micro nutrients",
+      "eligibility": "All farmers nationwide every 2 years",
+      "category": "Soil Testing",
+      "application_link": "https://soilhealth.dac.gov.in",
+      "verified_date": "2024-05-15"
+    },
+    {
+      "id": "pmksy_micro_irrigation",
+      "name": "Per Drop More Crop (Micro Irrigation - PMKSY)",
+      "tamil_name": "சொட்டு நீர் பாசன மானியத் திட்டம்",
+      "hindi_name": "प्रति बूंद अधिक फसल (सूक्ष्म सिंचाई)",
+      "benefit": "Up to 55% subsidy for small/marginal farmers and 45% for other farmers for drip & sprinkler systems",
+      "eligibility": "Farmers having assured water source and cultivable land",
+      "category": "Irrigation Subsidy",
+      "application_link": "https://pmksy.gov.in",
+      "verified_date": "2024-04-10"
+    },
+    {
+      "id": "sub_mission_agri_mechanization",
+      "name": "SMAM (Sub-Mission on Agricultural Mechanization)",
+      "tamil_name": "வேளாண் இயந்திரமயமாக்கல் திட்டம்",
+      "hindi_name": "कृषि यंत्रीकरण उप-मिशन",
+      "benefit": "40% to 50% financial assistance for procurement of agricultural machinery and equipment",
+      "eligibility": "Small, marginal, SC/ST, and women farmers",
+      "category": "Farm Machinery",
+      "application_link": "https://agrimachinery.nic.in",
+      "verified_date": "2024-03-20"
+    }
+  ]
+}

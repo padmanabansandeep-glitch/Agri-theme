@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+*/node_modules/
+venv/
+*/venv/
+.venv/
+env/
+
+# Build artifacts
+dist/
+*/dist/
+build/
+*.egg-info/
+
+# Python cache & testing
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*/.pytest_cache/
+
+# Logs & temp files
+*.log
+*/build.log
+*/build_*.log
+*/build_output.txt
+scratch_*.py
+push_to_github.bat
+
+# Environment variables & local secrets
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
